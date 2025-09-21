@@ -2,7 +2,7 @@
 A script for finding all round-trip flights within a date window and a variable stay length in Aviasales.
 
 **Example input:**  
-token = "your token"
+token = "your token"  
 origin = "MOW"  
 destination = "TAS"  
 start = date(2025, 9, 1)  
